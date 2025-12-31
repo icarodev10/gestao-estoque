@@ -25,7 +25,14 @@ Desenvolvi um sistema web capaz de:
 - [x] Filtros por Categoria (Medicamentos, EPIs, Insumos)
 
 ## 📸 Screenshots
-*(Aqui você vai colocar os prints depois!)*
+<img width="1919" height="593" alt="image" src="https://github.com/user-attachments/assets/c5170596-6ca1-40c2-beb5-8ec0b9fa6427" />
+
+<img width="1543" height="579" alt="image" src="https://github.com/user-attachments/assets/579bd804-9418-4e0e-a0a2-f1463986e2ea" />
+
+<img width="1520" height="794" alt="image" src="https://github.com/user-attachments/assets/2d113e30-4262-44fb-ad66-4a4503280346" />
+
+
+
 
 ## ⚙️ Como Rodar o Projeto
 
